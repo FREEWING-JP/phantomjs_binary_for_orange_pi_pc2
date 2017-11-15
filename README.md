@@ -16,7 +16,7 @@ http://www.neko.ne.jp/~freewing/raspberry_pi/orange_pi_pc2_phantomjs_211_xenial/
 mkdir ~/phantomjs_tmp
 cd ~/phantomjs_tmp
 
-BASE_URL=https://raw.githubusercontent.com/FREEWING-JP/phantomjs_binary_for_orange_pi_pc2/feature/master/
+BASE_URL=https://github.com/FREEWING-JP/phantomjs_binary_for_orange_pi_pc2/raw/master/
 
 TAR_FILE=phantomjs_2.1.1_orangepi_pc2_aarch64_ubuntu_xenial.tar.gz
 echo ${TAR_FILE}
